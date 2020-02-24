@@ -14,9 +14,9 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Zhaohongqiang
+name: zhaohongqiang
+description: On, hold on, hold on and the better!!!
 
 github: https://github.com/showzeng/Minimalism
 rss: true
