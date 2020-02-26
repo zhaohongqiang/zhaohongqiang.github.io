@@ -33,7 +33,7 @@ copyright_time: 2018
 
 # --- 文章列表页 ---
 # 文章列表是否显示摘要
-show_excerpt: true
+show_excerpt: false
 # --- 文章页 ---
 
 
