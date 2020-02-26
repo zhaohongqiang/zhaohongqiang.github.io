@@ -20,6 +20,7 @@ description: On, hold on, hold on and the better!!!
 
 github: https://github.com/showzeng/Minimalism
 rss: true
+show_excerpt: true
 
 plugins:
   - rouge
